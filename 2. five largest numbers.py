@@ -5,4 +5,4 @@ while num != "":
     num = input("Enter another number: ")
 numbers.sort(reverse=True)
 top5 = numbers[:5]
-print("The five highest numbers are: ", top5
+print("The five highest numbers are: ", top5)
