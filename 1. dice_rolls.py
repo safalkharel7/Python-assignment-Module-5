@@ -4,4 +4,4 @@ sum = 0
 for d in range(dice):
     roll = random.randint(1,6)
     sum = sum + roll
-print("The sum of the rolls is " + str(sum))
+print("The sum of the rolls is " + str(sum)

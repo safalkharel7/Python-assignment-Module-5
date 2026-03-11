@@ -7,4 +7,4 @@ else:
             print("The integer is not a prime number")
             break
     else:
-        print("The integer is  a prime number")
+        print("The integer is  a prime number"
